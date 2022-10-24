@@ -34,8 +34,10 @@ table{
     
 }
 #credits{
-    border-style:solid;
+    border-style:dotted;
     border-width:thin 1px;
+    border-color:indigo;
+    padding:1em ;
     text-align: right;
     letter-spacing:0.2px;
 }
