@@ -29,8 +29,8 @@ p{
 }
 #secondpara{
     margin-top:10px;
-    border-bottom-style:groove;
-    border-color:black;
+    border-bottom-style:solid;
+    border-color:rgba(10, 31, 187, 0.9);
     border-width:thin;
 }
 
